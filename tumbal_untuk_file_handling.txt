@@ -1,0 +1,6 @@
+Hello
+It is a,
+Batman.
+This is the continuation of the writing before.
+Because it is an append mode
+It won't overwrite the writings.
